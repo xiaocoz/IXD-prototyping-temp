@@ -1,5 +1,5 @@
 # Project #3
-# This is a fishing simulator that allows the user to catch the fish from lower to higher place by just spinning the potentiometer.
+## This is a fishing simulator that allows the user to catch the fish from lower to higher place by just spinning the potentiometer.
 
 ![IMG_2203 2](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/f20958cc-be06-4086-a0c2-78f0a04b7340)
 <img width="1177" alt="WeChat5bfbec09c42a5e2ae0bdc6a989a2d373" src="https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/c2c3f89a-ad55-4667-993b-07a33073c96c">
