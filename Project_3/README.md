@@ -1,6 +1,8 @@
-# Project #1
-
-![IMG_2198](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/960a1686-ea02-43b0-9a8a-2cb3507c18fa)
-![IMG_2200](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/0cf8183e-e5d2-4c49-969d-29295fd76435)
-![IMG_2201](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/1a671fba-d366-47e5-9130-93b243792b88)
-
+# Project #2
+![IMG_2893](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/8f99797b-ad1c-4e75-9afc-afeaea6fabfc)
+![IMG_2888](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/ce730e38-77c5-4315-ac95-2a6174c23c0e)
+![IMG_2887](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/c514dc0e-8e0a-4050-9524-cc1a3258b2ce)
+![IMG_2203 2](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/f20958cc-be06-4086-a0c2-78f0a04b7340)
+![IMG_2892](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/4f2eefbc-9e39-40e5-919d-598f64cc257e)
+![IMG_2891](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/bfe688b4-1550-48a2-90ee-88d0ebb90415)
+![IMG_2890](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/c9f81388-c3b2-4d17-8df3-5aad183281b5)
