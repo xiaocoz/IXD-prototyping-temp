@@ -162,6 +162,7 @@ We crafted the main structure from interconnected pipes, with funnels acting as 
 
 ### Project Outcome
 To enhance the visual impact of our project, we opted to turn off ambient lighting. This heightened the contrast of the color changes in the physical part and the projections on the abuser.
+![Slide 16_9 - 7](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/27f476ff-2913-493f-8c5f-b8c143553a7d)
 
 
 ### Conclusion
