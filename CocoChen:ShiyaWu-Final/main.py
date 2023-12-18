@@ -4,8 +4,8 @@ import random
 
 data_string = None
 data_list = None
-sensor_value = None  # Store the most recent sensor value
-red_circles = []  # Declare red_circles as a global variable
+sensor_value = None  
+red_circles = [] 
 
 def setup():
     p5.createCanvas(1520, 1000)
@@ -14,10 +14,9 @@ def setup():
 def draw():
     global data_string, data_list
     global sensor_value
-    global red_circles  # Use the global keyword to access the global variable
+    global red_circles  
 
     data_string = document.getElementById("data").innerText
-    # Split data_string by comma, making a list:
     data_list = data_string.split(',')
     
     sensor_val = int(data_list[0])
@@ -44,11 +43,11 @@ def draw():
         
         # Draw colorful circles with gradients
         for i in range(5):
-            fill_color = p5.color(255, 0, 0, opacity)  # Solid red color with varying opacity
+            fill_color = p5.color(255, 0, 0, opacity)
             p5.fill(fill_color)
             p5.noStroke()
             p5.ellipse(x, y, size - i * 10, size - i * 10)
 
         updated_red_circles.append((x, y, size, opacity, hue))
 
-    red_circles = updated_red_circles  # Update the red_circles list
+    red_circles = updated_red_circles 

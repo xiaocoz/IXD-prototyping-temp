@@ -6,15 +6,15 @@ import time
 
 rgb = None
 analog_pin = None
-sample_interval = 0.01  # Sampling interval in seconds
-samples_per_50ms = 20  # Number of samples per 0.05 seconds
-current_color = (0, 0, 0)  # Initialize the current color
+sample_interval = 0.01 
+samples_per_50ms = 20 
+current_color = (0, 0, 0) 
 
 def setup():
     global rgb, analog_pin
     M5.begin()
 
-    # Initialize RGB LED (assuming using pin G7 and 10 LEDs):
+    # Initialize RGB LED:
     rgb = RGB(io=7, n=90, type="SK6812")
 
     # Initialize an analog pin for input:
@@ -43,7 +43,7 @@ def get_average_volume():
 def map_volume_to_color(value, min_value, max_value):
     # Map the value to a range between 0 and 1
     normalized = (value - min_value) / (max_value - min_value)
-    normalized = max(0, min(normalized, 1))  # Clamp between 0 and 1
+    normalized = max(0, min(normalized, 1))  
 
     # Map the normalized value to a color
     r = int((1 - normalized) * 255)
@@ -60,6 +60,7 @@ def fade_to_color(current_color, target_color, steps=50, delay=0.005):
         time.sleep(delay)
         
 def get_color(r, g, b):
+    
     # Convert separate r, g, b values to one rgb_color value:
     rgb_color = (r << 16) | (g << 8) | b
     return rgb_color
@@ -75,4 +76,3 @@ if __name__ == '__main__':
             print_error_msg(e)
         except ImportError:
             print("please update to latest firmware")
-a
