@@ -1,4 +1,5 @@
 # The Empathy Pipe 
+Video: 
 ![Slide 16_9 - 2](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/b59d2381-00bb-4653-a589-db1fe8b9d252)
 
 ### Introduction
@@ -166,4 +167,8 @@ To enhance the visual impact of our project, we opted to turn off ambient lighti
 
 
 ### Conclusion
-Our collaborative effort saw Shiya focusing on graphic testing while I worked on the physical part, optimizing our workflow. We considered integrating IFTTT to send an email to the abuser at high volumes, emulating the backlash of cyberbullying. However, we chose to focus on projections for an immediate and striking visual feedback. We faced challenges, such as hardware limitations with the LED strip and mapping appropriate volume ranges for our desired visual effects. The journey taught us valuable lessons, and feedback led us to consider a mini projector within the pipe, enhancing the project's elegance and simplicity.
+Our project, a collaboration between myself and Shiya, was a study in efficient teamwork and innovative thinking. From the outset, we divided our tasks based on our strengths, which significantly boosted our productivity. During our brainstorming sessions, we toyed with the idea of integrating IFTTT to embody the concept of karma — for instance, sending an email to the 'abuser' when loud sounds were detected, simulating the backlash effect of cyberbullying. However, we later decided to pivot from this approach in favor of using graphic projections. This not only circumvented the need to collect email addresses from the audience but also provided immediate, visually impactful feedback, thereby enhancing the project's cohesiveness and elegance.
+
+Throughout the development process, we encountered several challenges. Initially, we envisioned a more complex assembly using longer pipes, but we faced limitations with the LED strip. We discovered that connecting more than 90 LEDs triggered errors in Thonny, forcing us to simplify our design to ensure the smooth functioning of the device. Another challenge was finding the right volume range for the audio input to effectively translate into our desired visual spectrum of small, medium, and large impacts.
+
+Despite these hurdles, the project was a rewarding experience. One such piece of advice was the suggestion to use a mini projector hidden at one end of the pipe, aimed directly at the 'abuser' side. This recommendation was particularly valuable as it eliminated the need for a connected computer, further streamlining and refining our project's design.
