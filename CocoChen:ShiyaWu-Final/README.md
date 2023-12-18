@@ -1,5 +1,5 @@
 # The Empathy Pipe 
-Video: 
+Video: https://youtu.be/eO7PCXp6SEE
 ![Slide 16_9 - 2](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/b59d2381-00bb-4653-a589-db1fe8b9d252)
 
 ### Introduction
@@ -159,6 +159,7 @@ def draw():
 
 ### Enclosure / Mechanical Design
 We crafted the main structure from interconnected pipes, with funnels acting as the ends of our 'telephone.' Translucent paper encased the ends to conceal the hardware and drilled holes in the pipe base allowed for cable management. A projector directed toward the abuser displayed the dynamic visual effects on a wall behind them.
+![Frame 1 (2)](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/c0fb1a58-4022-47af-89e3-0bbb2f6a554c)
 
 
 ### Project Outcome
