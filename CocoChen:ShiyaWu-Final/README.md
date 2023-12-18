@@ -97,3 +97,18 @@ if __name__ == '__main__':
             print("please update to latest firmware")
 
 ````
+
+### Software
+Using p5.js, we created a series of red dots that appeared in tandem with the volume of the sound. The louder the sound, the larger and more numerous the dots became, gradually fading in transparency to signify the karmic return of the abuser's actions.
+
+
+### Enclosure / Mechanical Design
+We crafted the main structure from interconnected pipes, with funnels acting as the ends of our 'telephone.' Translucent paper encased the ends to conceal the hardware, and drilled holes in the pipe base allowed for cable management. A projector directed toward the abuser displayed the dynamic visual effects on a wall behind them.
+
+
+### Project Outcome
+To enhance the visual impact of our project, we opted to turn off ambient lighting. This heightened the contrast of the color changes in the physical part and the projections on the abuser.
+
+
+### Conclusion
+Our collaborative effort saw Shiya focusing on graphic testing while I worked on the physical part, optimizing our workflow. We considered integrating IFTTT to send an email to the abuser at high volumes, emulating the backlash of cyberbullying. However, we chose to focus on projections for an immediate and striking visual feedback. We faced challenges, such as hardware limitations with the LED strip and mapping appropriate volume ranges for our desired visual effects. The journey taught us valuable lessons, and feedback led us to consider a mini projector within the pipe, enhancing the project's elegance and simplicity.
