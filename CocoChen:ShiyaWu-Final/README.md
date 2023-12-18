@@ -1,5 +1,5 @@
 # The Empathy Pipe 
-Video: [link to this page](./The Empathy Pipe - video.mov/)
+Video: [link to this page](./The_Empathy_Pipe - video.mov/)
 ![Slide 16_9 - 2](https://github.com/xiaocoz/IXD-prototyping-temp/assets/137859417/b59d2381-00bb-4653-a589-db1fe8b9d252)
 
 ### Introduction
