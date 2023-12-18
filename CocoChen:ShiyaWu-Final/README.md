@@ -1,5 +1,5 @@
 # The Empathy Pipe 
-[**View the final video**](./The_Empathy_Pipe_video.mov/)
+[**Download the final video in Github**](./The_Empathy_Pipe_video.mov/)
 
 [**Youtube**](https://youtu.be/eO7PCXp6SEE)
 
